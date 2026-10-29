@@ -64,23 +64,76 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-cazimedia-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
+Cazi Media builds premium, edge‑optimized applications, plugins, and integrations that enhance workflow productivity for platforms like monday.com and Shopify. Their suite includes tools such as CountSafe Inventory, Item Move Audit Ledger, and Template Drift Repair, aiming to eliminate manual repetitive tasks and provide tamper‑evident audit trails.
 
-**Areas:** Company
+**Areas:** Apps · Integrations · Productivity · Shopify · Monday.com
 
 ## cazimedia-com on APIs.io
 
 Everything profiled for cazimedia-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cazimedia-com/](https://apis.io/providers/cazimedia-com/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cazimedia Com Domain Security](https://apis.io/security/cazimedia-com/cazimedia-com-domain-security/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://cazimedia.com/)
+- [Documentation](https://cazimedia.com/catalog-sentinel/docs)
+- [Support](https://cazimedia.com/#contact)
+- [Terms of service](https://cazimedia.com/terms)
+- [Privacy policy](https://cazimedia.com/privacy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/cazimedia-com/](https://apis.io/providers/cazimedia-com/).
+**Kin Score 11.7** — emerging · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 21.1 |
+
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cazimedia-com/](https://apis.io/providers/cazimedia-com/).
 
 ## How this profile is made
 
